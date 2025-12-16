@@ -1,0 +1,10 @@
+my_variable = 1
+_myVar = 2
+user_id = 3
+MAX_COUNT = 4
+tempValue = 5
+data_list = [] 
+is_valid = True 
+__private = None 
+snake_case_example = "example" 
+camelCaseExample = 42

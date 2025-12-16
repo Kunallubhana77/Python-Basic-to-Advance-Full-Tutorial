@@ -1,0 +1,155 @@
+"""False
+if True:
+    pass
+
+None
+def func():
+    return None
+
+and
+if a and b:
+    pass
+
+as
+import math as m
+
+assert
+assert x > 0, "x must be positive"
+
+async
+async def fetch():
+    await asyncio.sleep(1)
+
+await
+await fetch()
+
+break
+while True:
+    break
+
+class
+class MyClass:
+    pass
+
+continue
+for i in range(5):
+    if i == 2:
+        continue
+
+def
+def greet(name):
+    return f"Hello, {name}"
+
+del
+del my_list[0]
+
+elif
+if x < 0:
+    pass
+elif x == 0:
+    pass
+
+else
+if condition:
+    pass
+else:
+    pass
+
+except
+try:
+    1/0
+except ZeroDivisionError:
+    pass
+
+finally
+try:
+    open('file')
+finally:
+    print("cleanup")
+
+for
+for i in range(3):
+    print(i)
+
+from
+from math import sqrt
+
+global
+global counter
+counter = 0
+
+if
+if x > 10:
+    print("big")
+
+import
+import os
+
+in
+if item in collection:
+    pass
+
+is
+if a is b:
+    pass
+
+lambda
+square = lambda x: x*x
+
+nonlocal
+def outer():
+    x = 1
+    def inner():
+        nonlocal x
+        x = 2
+    inner()
+    return x
+
+not
+if not ready:
+    pass
+
+or
+if a or b:
+    pass
+
+pass
+def placeholder():
+    pass
+
+raise
+raise ValueError("Invalid value")
+
+return
+def add(a, b):
+    return a + b
+
+try
+try:
+    risky()
+except:
+    pass
+
+while
+while condition:
+    do_something()
+
+with
+with open('file.txt') as f:
+    data = f.read()
+
+yield
+def counter():
+    i = 0
+    while True:
+        yield i
+        i += 1
+
+match
+match command:
+    case "start":
+        start()
+    case "stop":
+        stop()
+    case _:
+        default()"""
